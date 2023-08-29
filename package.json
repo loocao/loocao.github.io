@@ -4,10 +4,15 @@
   "main": "",
   "license": "MIT",
   "scripts": {
+    "build": "vuepress build src",
+    "clean-dev": "vuepress dev src --clean-cache",
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "update-package": "npx vp-update"
   },
   "devDependencies": {
-    "vuepress": "^1.9.10"
+    "vuepress": "2.0.0-beta.67",
+    "@vuepress/client": "2.0.0-beta.67",
+    "vue": "^3.3.4",
+    "vuepress-theme-hope": "2.0.0-beta.236"
   }
 }

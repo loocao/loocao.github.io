@@ -1,5 +1,11 @@
 .history
+
+.DS_Store
+
 yarn.lock
 package-lock.json
-node_modules
 dist
+
+node_modules/
+src/.vuepress/.cache/
+src/.vuepress/.temp/
