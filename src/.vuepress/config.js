@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'Hello VuePress',
-  description: 'Just playing around',
-  permalink: "/:year/:month/:day/:slug",
+  title: 'loocao',
+  description: 'loocao\'s pages',
+  dest: "dist",
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },

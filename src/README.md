@@ -1,3 +1,6 @@
+---
+title: Hello VuePress
+---
 # Hello VuePress
 
 | Tables        | Are           | Cool  |
@@ -7,6 +10,8 @@
 | zebra stripes | are neat      |    $1 |
 
 :tada: :100:
+
+123
 
 ::: tip
 这是一个提示
