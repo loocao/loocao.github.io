@@ -1,3 +1,5 @@
+# Nginx设置最大传输大小
+
 #card #nginx 
 
 修改`/etc/nginx/nginx.conf`，放在`http`下

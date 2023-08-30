@@ -1,3 +1,5 @@
+# Nginx配置SSL
+
 #card #nginx 
 
 通过[[使用ACME申请证书（证书自动续期）]]申请域名证书，存放`/etc/nginx/cert`目录下

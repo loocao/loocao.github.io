@@ -1,3 +1,5 @@
+# Nginx反向代理配置
+
 #card #nginx 
 
 配置路径`/etc/nginx/conf.d`

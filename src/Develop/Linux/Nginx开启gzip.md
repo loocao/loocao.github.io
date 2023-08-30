@@ -1,3 +1,5 @@
+# Nginx开启gzip
+
 #card #nginx
 
 修改`/etc/nginx/nginx.conf`，放在`http`下
