@@ -18,6 +18,7 @@ export default hopeTheme({
   logo: "/logo.jpg",
 
   repo: "loocao/loocao.github.io",
+  docsBranch: "master",
 
   docsDir: "src",
 
@@ -72,9 +73,8 @@ export default hopeTheme({
 
   // page meta
   metaLocales: {
-    lastUpdated: true,
-    editLink: true,
-    docsBranch: "master",
+    lastUpdated: "更新时间",
+    editLink: "在 GitHub 上编辑此页",
   },
 
   plugins: {
