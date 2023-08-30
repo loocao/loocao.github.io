@@ -88,7 +88,7 @@ export default hopeTheme({
       // You should generate and use your own comment service
       provider: "Waline",
       serverURL: "https://waline.loocao.top:5443",
-      login: false
+      login: 'disable'
     },
 
     // all features are enabled for demo, only preserve features you need here
