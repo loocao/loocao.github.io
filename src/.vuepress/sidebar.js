@@ -2,10 +2,16 @@ import { sidebar } from 'vuepress-theme-hope'
 
 export default sidebar({
   '/': [
+    { text: 'Docker', icon: 'laptop-code', prefix: 'docker/', link: 'docker/', children: 'structure' },
+    { text: '2023', icon: 'book', prefix: '2023/', children: 'structure' },
+    'docker',
+  ],
+  '/Develop/': [
     '',
-    { text: '如何使用', icon: 'laptop-code', prefix: 'demo/', link: 'demo/', children: 'structure' },
-    { text: '文章', icon: 'book', prefix: 'posts/', children: 'structure' },
-    'intro',
-    'slides'
+    { text: '🐧 Linux', prefix: 'Linux/', children: 'structure' },
+  ],
+  '/绳命在于折腾/': [
+    '',
+    { text: 'NAS', prefix: '绳命在于折腾/', children: 'structure' },
   ]
 })
