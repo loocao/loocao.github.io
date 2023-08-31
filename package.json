@@ -4,9 +4,9 @@
   "main": "",
   "license": "MIT",
   "scripts": {
-    "build": "vuepress build src",
-    "clean-dev": "vuepress dev src --clean-cache",
     "dev": "vuepress dev src",
+    "clean-dev": "vuepress dev src --clean-cache",
+    "build": "vuepress build src",
     "update-package": "npx vp-update"
   },
   "devDependencies": {
