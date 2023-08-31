@@ -18,9 +18,13 @@ export default hopeTheme({
   logo: "/logo.jpg",
 
   repo: "loocao/loocao.github.io",
+
+  // 编辑此页链接
+  docsDir: "src",
   docsBranch: "master",
 
-  docsDir: "src",
+  // 显示控制
+  contributors: false,
 
   // navbar
   navbar,
@@ -75,7 +79,6 @@ export default hopeTheme({
   metaLocales: {
     lastUpdated: "更新时间",
     editLink: "编辑此页",
-    contributors: false,
   },
 
   plugins: {
