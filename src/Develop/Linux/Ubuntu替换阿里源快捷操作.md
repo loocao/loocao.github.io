@@ -1,10 +1,9 @@
-# 快速命令
+# Ubuntu替换阿里源快捷操作
+## 快速命令
 
 ```sh
 sed -i 's/http:\/\/archive.ubuntu.com\/ubuntu/https:\/\/mirrors.aliyun.com\/ubuntu/g' /etc/apt/sources.list
 ```
-
-# linux 给文件替换字符串/替换内容/替换某行 (shell,sed)
 
 ## 基本语法
 
