@@ -7,7 +7,7 @@
 ```nginx
 server {
   listen      80;
-  server_name portainer.2354.loocao.top;
+  server_name a.com;
 
   location / {
     proxy_pass       http://127.0.0.1:9000/;
