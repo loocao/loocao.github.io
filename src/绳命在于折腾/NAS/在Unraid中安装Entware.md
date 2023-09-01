@@ -1,3 +1,6 @@
+---
+date: 2023-08-01
+---
 # 在Unraid中安装Entware
 
 ## 挂载/opt目录

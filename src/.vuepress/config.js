@@ -8,7 +8,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: '',
   description: '',
-  pagePatterns: ['**/*.md', '!.vuepress', '!node_modules', '!_templates'],
+  pagePatterns: ['**/*.md', '!.vuepress', '!node_modules', '!_templates', '!.obsidian'],
 
   theme
 
