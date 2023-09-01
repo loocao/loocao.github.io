@@ -1,3 +1,6 @@
+---
+date: 2023-08-01
+---
 # 在CentOS 7上安装OpenJDK 17
 
 ## 下载OpenJDK

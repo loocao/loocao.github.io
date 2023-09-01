@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/文章模板.md",
+                "file": "src/Develop/Linux/查看磁盘目录占用大小.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/文章模板.md",
+                "file": "src/Develop/Linux/查看磁盘目录占用大小.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/文章模板.md",
+                "file": "src/Develop/Linux/查看磁盘目录占用大小.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templates/文章模板.md"
+                "file": "src/Develop/Linux/查看磁盘目录占用大小.md"
               }
             }
           }
@@ -148,24 +149,36 @@
   },
   "active": "32b2bd5269384a5b",
   "lastOpenFiles": [
-    "_templates/随手记模板.md",
-    "_templates/文章模板.md",
-    "note/2023/09/2023-08-31.md",
+    "dist/logo.jpg",
+    "src/Develop/Linux/将cer格式的证书转为crt格式.md",
+    "src/Develop/Linux/查看磁盘目录占用大小.md",
+    "src/绳命在于折腾/NAS/在Unraid中安装Entware.md",
+    "src/intro.md",
+    "src/README.md",
+    "Develop/Linux/Ubuntu替换阿里源快捷操作.md",
+    "Develop/Linux/Supervisor安装.md",
+    "Develop/Linux/SSH keys (简体中文).md",
+    "Develop/Linux/rsync.md",
+    "Develop/Linux/oh-my-zsh使用国内镜像更新.md",
+    "Develop/Linux/Nginx设置最大传输大小.md",
+    "Develop/Linux/Nginx配置SSL.md",
+    "Develop/Linux/Nginx开启gzip.md",
+    "Develop/Linux/Nginx反向代理配置.md",
+    "Develop/Linux/Linux下开启SSH，并且允许root用户远程登录.md",
+    "Develop/Linux/Linux内核参数.md",
+    "Develop/Linux/Linux启用IP转发IPv4和IPv6内核转发.md",
+    "Develop/Linux/linux查看系统的硬件信息.md",
+    "Develop/Linux/Install OpenJDK 17 on CentOS 7_RHEL 7_Oracle Linux.md",
+    "Develop/Linux/使用ACME申请证书（证书自动续期）.md",
+    "Develop/Linux/将cer格式的证书转为crt格式.md",
+    "Develop/Linux/查看磁盘目录占用大小.md",
     "note/2023/08/2023-08-29.md",
-    "note/2023/08/2023-08-09.md",
-    "note/2023/09/未命名.md",
+    "_templates/文章模板.md",
+    "_templates/随手记模板.md",
     "note/2023/09",
     "_templates",
-    "绳命在于折腾/NAS/在Unraid中安装Entware.md",
     "blog/2023/08",
     "blog/2023",
-    "blog",
-    "Develop/Linux/Nginx反向代理配置.md",
-    "Develop/Linux/Linux启用IP转发IPv4和IPv6内核转发.md",
-    "Develop/Linux/Linux下开启SSH，并且允许root用户远程登录.md",
-    "Develop/Linux/linux查看系统的硬件信息.md",
-    "Develop/Linux/将cer格式的证书转为crt格式.md",
-    "Develop/Linux/Install OpenJDK 17 on CentOS 7_RHEL 7_Oracle Linux.md",
-    "Develop/Linux/查看磁盘目录占用大小.md"
+    "blog"
   ]
 }

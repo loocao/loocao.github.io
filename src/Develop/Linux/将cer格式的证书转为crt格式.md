@@ -1,3 +1,6 @@
+---
+date: 2023-08-01
+---
 # 将cer格式的证书转为crt格式
 
 Basically there are two CER certificate encoding types, DER and Base64. When type DER returns an error loading certificate (asn1 encoding routines), try the PEM and it shall work.
