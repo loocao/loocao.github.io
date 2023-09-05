@@ -6,7 +6,11 @@ export default sidebar({
     { text: '2023', icon: 'book', prefix: '2023/', children: 'structure' },
     'docker'
   ],
-  '/Develop/': ['', { text: '🐧 Linux', prefix: 'Linux/', children: 'structure' }],
+  '/Develop/': [
+    '',
+    { text: '🐧 Linux', prefix: 'Linux/', children: 'structure' },
+    { text: '🍬 其它', prefix: 'others/', children: 'structure' }
+  ],
   '/绳命在于折腾/': ['', { text: 'NAS', prefix: '绳命在于折腾/', children: 'structure' }],
   '/note/': 'structure'
 })
