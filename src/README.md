@@ -7,9 +7,10 @@ heroImage: /logo.jpg
 heroText: loocao
 heroFullScreen: true
 tagline: 绳命在于折腾
-meta:
-  - name: baidu-site-verification
-    content: codeva-jCgM9ZOsi7
+head:
+  - - meta
+    - name: baidu-site-verification
+      content: codeva-jCgM9ZOsi7
 projects:
   - icon: project
     name: 项目名称
