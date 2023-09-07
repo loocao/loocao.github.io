@@ -1,8 +1,8 @@
 ---
 title: git设置和取消代理
-date: 2023-09-05 16:26
+date: 2023-09-05
 category: 默认
-tag: 
+tag: git
 ---
 
 ##  快捷命令
