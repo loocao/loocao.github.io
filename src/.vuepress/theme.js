@@ -32,7 +32,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: '<!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon=\'{"token": "74f5ba58dd4e4e7496c2c6d6cd63ab0a"}\'></script><!-- End Cloudflare Web Analytics -->',
+  footer: '',
 
   displayFooter: true,
 
