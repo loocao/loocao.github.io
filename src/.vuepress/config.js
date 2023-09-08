@@ -11,7 +11,4 @@ export default defineUserConfig({
   pagePatterns: ['**/*.md', '!.vuepress', '!node_modules', '!_templates', '!.obsidian'],
 
   theme
-
-  // Enable it with pwa
-  // shouldPrefetch: false,
 })
