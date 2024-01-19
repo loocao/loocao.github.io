@@ -88,6 +88,4 @@ rm /var/swapfile
 vi /etc/fstab
 ```
 
-> **本文链接：** [https://blog.inkuang.com/2019/517/](https://blog.inkuang.com/2019/517/ "Linux 系统添加和删除 Swap 交换文件")
-> **版权声明：** 本博客所有文章除特别声明外，均采用 [BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可协议。转载请注明出处！
-> **联系方式：** 本博客不提供评论功能，如需联系博主，请使用 [E-Mail](mailto:blog@inkuang.com "E-Mail → mailto:blog@inkuang.com") 或 [Telegram](https://t.me/inkuang "Telegram → https://t.me/inkuang") ！
+> **转载链接：** [https://blog.inkuang.com/2019/517/](https://blog.inkuang.com/2019/517/ "Linux 系统添加和删除 Swap 交换文件")
