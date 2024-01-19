@@ -1,7 +1,6 @@
 ---
-date: 2024-01-19 16:17
+date: 2024-01-19
 category: 默认
-tag: 
 title: Linux 系统添加和删除 Swap 交换文件
 ---
 ## 简介
