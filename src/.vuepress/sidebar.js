@@ -5,6 +5,5 @@ export default sidebar({
     { text: '🐧 Linux', prefix: 'Linux/', children: 'structure' },
     { text: '🍬 其它', prefix: 'others/', children: 'structure' }
   ],
-  '/life/': [{ text: 'NAS', prefix: 'NAS/', children: 'structure' }],
-  '/note/': 'structure'
+  '/life/': [{ text: 'NAS', prefix: 'NAS/', children: 'structure' }]
 })
