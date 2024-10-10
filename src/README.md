@@ -6,7 +6,6 @@ title: 主页
 heroImage: /logo.jpg
 heroText: loocao
 heroFullScreen: true
-bgImage: https://api.7ed.net/bing/api
 tagline: 绳命在于折腾
 head:
   - - meta
