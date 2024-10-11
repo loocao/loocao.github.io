@@ -21,7 +21,7 @@ git config --global http.https://github.com.proxy socks5://127.0.0.1:7890
 
 ## 修改`~/.ssh/config`方式
 
-1. https访问  
+### 1. https访问  
 
 仅为github.com设置socks5代理(推荐这种方式, 公司内网就不用设代理了, 多此一举):  
 `git config --global http.https://github.com.proxy socks5://127.0.0.1:7890`  
@@ -33,7 +33,7 @@ git config --global http.https://github.com.proxy socks5://127.0.0.1:7890
 proxy = socks5://127.0.0.1:7890
 ```
     
-2. ssh访问  
+### 2. ssh访问  
 
 macOS系统，需要修改~/.ssh/config文件, 没有的话新建一个. 同样仅为github.com设置代理:
     

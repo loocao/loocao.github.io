@@ -1,5 +1,6 @@
 ---
 date: 2023-08-01
+category: Linux
 ---
 # 使用ACME申请证书（证书自动续期）
 

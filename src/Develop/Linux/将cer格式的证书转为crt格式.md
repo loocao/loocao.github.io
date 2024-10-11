@@ -1,5 +1,6 @@
 ---
 date: 2023-08-01
+category: Linux
 ---
 # 将cer格式的证书转为crt格式
 

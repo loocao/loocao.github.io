@@ -1,9 +1,8 @@
 ---
 date: 2023-12-29
-category: 默认
+category: Linux
 title: Linux查看端口占用情况
 ---
-
 ## lsof
 
 显示Linux系统当前已打开的所有文件列表 `lsof -p pid`

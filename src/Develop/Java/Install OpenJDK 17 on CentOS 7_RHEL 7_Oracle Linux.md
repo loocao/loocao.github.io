@@ -1,5 +1,9 @@
 ---
 date: 2023-08-01
+category: Java
+tags:
+  - CentOS
+  - OpenJDK
 ---
 # 在CentOS 7上安装OpenJDK 17
 
