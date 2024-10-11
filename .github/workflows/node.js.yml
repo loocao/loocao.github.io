@@ -32,7 +32,7 @@ jobs:
         cache: 'pnpm'
     - run: pnpm install
     - run: npm run build
-    - name: Upload GitHub Pages artifact
-      uses: actions/upload-pages-artifact@v3.0.1
+    - name: Deploy GitHub Pages site
+      uses: actions/deploy-pages@v4.0.5
       with:
-        path: dist/
+        token: ${{ secrets.ACCESS_TOKEN }}
