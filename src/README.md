@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-# heroImage: /paper_boat_500.gif
+# heroImage: /logo.gif
 heroText: loocao
 # heroFullScreen: true
 tagline: 绳命在于折腾
