@@ -68,7 +68,7 @@ acme.sh  --renew -d mydomain.com \
 
 ##### a. 在域名提供商中，生成你的 api id 和 api key并记录，以dnspod为例
 
-![978b084fc1f38e5b606b2f085df7cdb1.png](assets/978b084fc1f38e5b606b2f085df7cdb1.png)
+![QmYjE4j3Dadb4TPYdLGcLksmY3evkwPhLisSVsYWZAqwh7](https://cdn.img2ipfs.com/ipfs/QmYjE4j3Dadb4TPYdLGcLksmY3evkwPhLisSVsYWZAqwh7?filename=obsidian%3A%E4%BB%A5dnspod%E4%B8%BA%E4%BE%8B.png)
 
 ##### b. 引入api id和key，以dnspod为例
 
