@@ -1,11 +1,17 @@
+# VSCode
 .history
 
+# OSX
 .DS_Store
 
+# Build
 dist
-
 node_modules/
+
+# VuePress
 src/.vuepress/.cache/
 src/.vuepress/.temp/
+src/.vuepress/dist/
 
+# Obsidian
 src/.obsidian/
