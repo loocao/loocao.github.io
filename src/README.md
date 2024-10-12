@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-# heroImage: /logo.gif
+# heroImage: https://cdn.img2ipfs.com/ipfs/QmapNiFFVeaZoC7A1CR4YriGPw9PA42UeV8NDT23ARTKA2?filename=logo.gif
 heroText: loocao
 # heroFullScreen: true
 tagline: 绳命在于折腾

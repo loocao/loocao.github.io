@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: 'fontawesome-with-brands',
 
-  logo: '/logo.gif',
+  logo: 'https://cdn.img2ipfs.com/ipfs/QmapNiFFVeaZoC7A1CR4YriGPw9PA42UeV8NDT23ARTKA2?filename=logo.gif',
 
   repo: 'loocao/loocao.github.io',
 
