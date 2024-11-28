@@ -5,7 +5,7 @@ category: Network
 tags:
   - Wireguard
 ---
-首先参考 [[../../Develop/Linux/Linux 启用 IP 转发 IPv4 和 IPv6 内核转发|Linux 启用 IP 转发 IPv4 和 IPv6 内核转发]] 开启Linux的IPv6内核转发
+首先参考 [Linux 启用 IP 转发 IPv4 和 IPv6 内核转发](../../Develop/Linux/Linux%20启用%20IP%20转发%20IPv4%20和%20IPv6%20内核转发.md) 开启Linux的IPv6内核转发
 
 ## 修改wireguard配置文件
 
