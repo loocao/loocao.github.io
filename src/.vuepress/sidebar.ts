@@ -10,5 +10,6 @@ export default sidebar({
   '/life/': [
     { text: '主页', icon: 'house', link: '/' },
     { text: '🏡 NAS', link: 'NAS/' },
+    { text: '🪙 Network', link: 'Network/' },
   ],
 })
