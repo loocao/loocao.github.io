@@ -4,11 +4,11 @@ import navbar from './navbar.js'
 import sidebar from './sidebar.js'
 
 export default hopeTheme({
-  hostname: 'https://loocao.cloudns.org',
+  hostname: 'https://loocao.top',
 
   author: {
     name: 'loocao',
-    url: 'https://loocao.cloudns.org',
+    url: 'https://loocao.top',
   },
 
   iconAssets: 'fontawesome-with-brands',
