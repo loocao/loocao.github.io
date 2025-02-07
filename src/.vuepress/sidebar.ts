@@ -11,5 +11,6 @@ export default sidebar({
     { text: '主页', icon: 'house', link: '/' },
     { text: '🏡 NAS', link: 'NAS/' },
     { text: '🪙 Network', link: 'Network/' },
+    { text: '🌐 建站资源', link: 'site/' },
   ],
 })

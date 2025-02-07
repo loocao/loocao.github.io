@@ -8,20 +8,20 @@ tags:
 ---
 ## eu.org
 
-> https://nic.eu.org/
+> [https://nic.eu.org/](https://nic.eu.org/)
 
 支持: 可解析NS到Cloudflare
 
 ## pp.ua
 
-> https://nic.ua/
+> [https://nic.ua/](https://nic.ua/)
 
 免费一年，手动续期
 支持: 可解析NS到Cloudflare
 
 ## US.KG Domain Registry
 
-> https://nic.us.kg/
+> [https://nic.us.kg/](https://nic.us.kg/)
 
 域名不再花费
 
@@ -31,29 +31,29 @@ tags:
 
 ## CloudDNS
 
-> https://www.cloudns.net/
+> [https://www.cloudns.net/](https://www.cloudns.net/)
 
 支持: 可解析NS到Cloudflare
 
 ## x10
 
-> https://x10hosting.com/
+> [https://x10hosting.com/](https://x10hosting.com/)
 
 支持: 可解析NS到Cloudflare
 
 ## Free Dynamic DNS
 
-> https://dynv6.com/
+> [https://dynv6.com/](https://dynv6.com/)
 
 支持: A, AAAA, CNAME, MX, TXT
 
 ## deSEC
 
-> https://desec.io/
+> [https://desec.io/](https://desec.io/)
 
 支持: A, AAAA, CNAME, MX, TXT, NS
 ## js.org
 
-> https://js.org/
+> [https://js.org/](https://js.org/)
 
 为您的 GitHub 页面获取您自己的免费 JS.ORG 子域
