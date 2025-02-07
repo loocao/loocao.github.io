@@ -13,4 +13,4 @@ head:
       content: codeva-jCgM9ZOsi7
 ---
 
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home/)。
+相关配置文档请见 [VuePress Theme Hope 快速上手](https://theme-hope.vuejs.press/zh/get-started/)。
