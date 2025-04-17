@@ -125,16 +125,7 @@ Local History 是一款实用的VSCode插件，用于自动保存文件的修改
 |**远程备份**|✅ 支持|❌ 仅限本地|
 |**精细化管理**|✅ 分支、标签等|❌ 简单时间点备份|
 
-**⚠️ 注意**：备份文件默认存储在项目目录下的 `.history`，建议添加到 `.gitignore` 避免提交到仓库。或者建议修改默认备份存储路径`local-history.path`
-
-```json
-{
-  "localHistory.enabled": true, // 是否启用
-  "localHistory.delay": 60,    // 备份间隔（秒）
-  "localHistory.maxHistoryItems": 100, // 最大备份数
-  "localHistory.path": ".vscode/local-history" // 备份存储路径
-}
-```
+**⚠️ 注意**：备份文件默认存储在项目目录下的 `.history`，建议添加到 `.gitignore` 避免提交到仓库。
 ## 6. Live Server
 
 Live Server 是一款前端开发必备的轻量级工具，能够在本地快速启动一个实时重载（Live Reload）的开发服务器。当你编辑并保存 HTML、CSS 或 JavaScript 文件时，浏览器会自动刷新，无需手动操作。特别适合调试静态页面或动态前端项目。
