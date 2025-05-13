@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-# heroImage: https://cdn.jsdelivr.net/gh/loocao/static@main/images/logo.gif
+# heroImage: https://static.loocao.top/images/logo.gif
 heroText: loocao
 # heroFullScreen: true
 tagline: 绳命在于折腾
