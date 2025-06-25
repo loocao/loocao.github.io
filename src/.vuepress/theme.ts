@@ -36,9 +36,9 @@ export default hopeTheme({
     intro: '/intro.html',
     medias: {
       GitHub: 'https://github.com/loocao',
-      VuePressThemeHope: {
-        icon: 'https://theme-hope-assets.vuejs.press/logo.svg',
-        link: 'https://theme-hope.vuejs.press',
+      Listly: {
+        icon: 'https://d28efpdu2tk2gz.cloudfront.net/assets/logos/listly-square-logo-afe2de8d2e2ecadd3816e16e2254f6bd8b6fb39ffd190be5bdd15174d109f614.png',
+        link: 'https://list.ly/list/CWUS-loocao'
       },
     },
   },
