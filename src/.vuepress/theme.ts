@@ -44,6 +44,10 @@ export default hopeTheme({
         icon: 'https://assets.production.linktr.ee/9a495cba4f6102bd9557614cb028737416b4a9d4/favicon/favicon.png',
         link: 'https://linktr.ee/loocao',
       },
+      "Text.is": {
+        icon: 'https://text.is/static/icon/256.png',
+        link: 'https://text.is/LV14O',
+      },
     },
   },
 
