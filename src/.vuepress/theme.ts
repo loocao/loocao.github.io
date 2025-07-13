@@ -38,7 +38,11 @@ export default hopeTheme({
       GitHub: 'https://github.com/loocao',
       Listly: {
         icon: 'https://d28efpdu2tk2gz.cloudfront.net/assets/logos/listly-square-logo-afe2de8d2e2ecadd3816e16e2254f6bd8b6fb39ffd190be5bdd15174d109f614.png',
-        link: 'https://list.ly/list/CWUS-loocao'
+        link: 'https://list.ly/list/CWUS-loocao',
+      },
+      LinkTree: {
+        icon: 'https://assets.production.linktr.ee/9a495cba4f6102bd9557614cb028737416b4a9d4/favicon/favicon.png',
+        link: 'https://linktr.ee/loocao',
       },
     },
   },
@@ -68,14 +72,14 @@ export default hopeTheme({
     spoiler: true,
     stylize: [
       {
-        matcher: "Recommended",
+        matcher: 'Recommended',
         replacer: ({ tag }) => {
-          if (tag === "em")
+          if (tag === 'em')
             return {
-              tag: "Badge",
-              attrs: { type: "tip" },
-              content: "Recommended",
-            };
+              tag: 'Badge',
+              attrs: { type: 'tip' },
+              content: 'Recommended',
+            }
         },
       },
     ],
@@ -130,16 +134,16 @@ export default hopeTheme({
     // 启用之前需安装 @waline/client
     // 警告: 这是一个仅供演示的测试服务，在生产环境中请自行部署并使用自己的服务！
     comment: {
-      provider: "Waline",
-      serverURL: "https://vercel-waline.loocao.top",
+      provider: 'Waline',
+      serverURL: 'https://vercel-waline.loocao.top',
     },
 
     components: {
-      components: ["Badge", "VPCard"],
+      components: ['Badge', 'VPCard'],
     },
 
     icon: {
-      prefix: "fa6-solid:",
+      prefix: 'fa6-solid:',
     },
 
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
