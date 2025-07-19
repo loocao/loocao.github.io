@@ -3,6 +3,8 @@ import { hopeTheme } from 'vuepress-theme-hope'
 import navbar from './navbar.js'
 import sidebar from './sidebar.js'
 
+import medias from './medias.ts'
+
 export default hopeTheme({
   hostname: 'https://loocao.top',
 
@@ -10,8 +12,6 @@ export default hopeTheme({
     name: 'loocao',
     url: 'https://loocao.top',
   },
-
-  iconAssets: 'fontawesome-with-brands',
 
   logo: 'https://static.loocao.top/images/logo.gif',
 
@@ -34,26 +34,12 @@ export default hopeTheme({
   blog: {
     description: 'A programmer',
     intro: '/intro.html',
-    medias: {
-      GitHub: 'https://github.com/loocao',
-      Listly: {
-        icon: 'https://d28efpdu2tk2gz.cloudfront.net/assets/logos/listly-square-logo-afe2de8d2e2ecadd3816e16e2254f6bd8b6fb39ffd190be5bdd15174d109f614.png',
-        link: 'https://list.ly/list/CWUS-loocao',
-      },
-      LinkTree: {
-        icon: 'https://assets.production.linktr.ee/9a495cba4f6102bd9557614cb028737416b4a9d4/favicon/favicon.png',
-        link: 'https://linktr.ee/loocao',
-      },
-      "Text.is": {
-        icon: 'https://text.is/static/icon/256.png',
-        link: 'https://text.is/LV14O',
-      },
-    },
+    medias,
   },
 
   // 多语言配置
   metaLocales: {
-    lastUpdated: '更新时间',
+    date: '更新时间',
   },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
@@ -148,6 +134,7 @@ export default hopeTheme({
 
     icon: {
       prefix: 'fa6-solid:',
+      assets: ['fontawesome-with-brands'],
     },
 
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
