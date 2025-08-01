@@ -29,4 +29,8 @@ export default {
     icon: 'https://linksta.cc/assets/linkstack/images/logo.svg',
     link: 'https://linksta.cc/@loocao',
   },
+  'lead.dev': {
+    icon: 'https://lead.dev/favicon.ico',
+    link: 'https://lead.dev/loocao',
+  }
 }
