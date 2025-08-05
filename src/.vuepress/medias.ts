@@ -1,6 +1,10 @@
 export default {
   GitHub: 'https://github.com/loocao',
   Github: 'https://gist.github.com/loocao',
+  'Google Sites': {
+    icon: 'https://ssl.gstatic.com/atari/images/public/favicon.ico',
+    link: 'https://sites.google.com/view/looaco/home',
+  },
   Text: {
     icon: 'https://text.is/static/icon/256.png',
     link: 'https://text.is/LV14O',
@@ -32,5 +36,5 @@ export default {
   'lead.dev': {
     icon: 'https://lead.dev/favicon.ico',
     link: 'https://lead.dev/loocao',
-  }
+  },
 }
